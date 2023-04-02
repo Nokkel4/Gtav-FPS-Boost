@@ -1,0 +1,5 @@
+If you get an error when opening ISLC, Click your windows key
+and R at the same time then type in CMD and
+click enter then copy and paste this command there TWICE
+
+LODCTR /R
